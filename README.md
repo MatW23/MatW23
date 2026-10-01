@@ -1,67 +1,28 @@
-Hi, I'm Matheus Albuquerque 👋
-🎓 18 years old | Data Cientist Student
+# Olá, sou o Matheus Albuquerque 👋
 
-💻 Backend & Data-oriented developer
+**Analista de Dados em Formação | Big Data para Negócios (FATEC)**
 
-📊 Focused on databases, backend systems, and data analysis
+Atuo na interseção entre inteligência de negócios, análise quantitativa e tecnologia. Minha abordagem une o rigor técnico da modelagem estatística e manipulação de dados à construção de soluções práticas para apoio à tomada de decisão no ambiente corporativo.
 
-🚀 Actively seeking an internship opportunity
+---
 
-🧠 Technical Skills
+### 🛠️ Ecossistema Técnico & Ferramentas
 
-🔹 Backend Development
+- **Programação & Análise Exploratória:** Python (Pandas, NumPy, Matplotlib)
+- **Bancos de Dados & Extração:** SQL (Consultas complexas, JOINs, Group By, Window Functions)
+- **Business Intelligence & Dashboards:** Microsoft Power BI (DAX, Power Query) & Excel Avançado
+- **Governança & Versionamento:** Git, GitHub & Ambientes Linux
 
-Python
+---
 
-Node.js
+### 🎓 Formação & Desenvolvimento Contínuo
 
-JavaScript
+- **Graduação:** Tecnólogo em Big Data para Negócios — FATEC Ipiranga (*2026 – 2028*)
+- **Especializações Práticas:** Formações continuadas em Lógica de Programação, SQL, Python e Governança de Código (Alura & Fundação Bradesco)
 
-RESTful APIs (fundamentals)
+---
 
-🔹 Data & Databases
+### 📬 Conecte-se comigo
 
-SQL
-
-Data Modeling
-
-Microsoft Excel (data organization & analysis)
-
-🔹 Software Engineering
-
-Git & GitHub
-
-Programming Logic
-
-Version Control
-
-🔹 Web Fundamentals
-
-HTML
-
-CSS
-
-🔹 Tools
-
-Git
-
-GitHub
-
-Microsoft Office
-
-🎯 Career Objective
-
-I am seeking an internship opportunity where I can apply my knowledge in backend development and data, contribute to real-world projects, and continuously improve my technical, analytical, and problem-solving skills.
-
-Top Languages
-
-🚀 Currently Improving
-Backend architecture and API development
-SQL optimization and data modeling
-Software development best practices
-Git and GitHub workflows
-
-📫 Contact
-GitHub: https://github.com/MatW23
-
-LinkedIn: https://linkedin.com/in/matheus-santos-albuquerque-5353573b0
+- **LinkedIn:** [linkedin.com/in/matheus-santos-albuquerque](https://www.linkedin.com/in/matheus-santos-albuquerque-5353573b0)
+- **E-mail:** [m.santos212606@gmail.com](mailto:m.santos212606@gmail.com)
